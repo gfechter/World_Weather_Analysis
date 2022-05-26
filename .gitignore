@@ -5,6 +5,9 @@ config.py
 API_Practice.ipynb
 random_numbers.ipynb
 
+# Adding DS Store
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
